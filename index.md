@@ -1,14 +1,5 @@
-## Portfolio
+## Hello there.
 
-Hello there.
+I’m currently a senior data scientist, project manager, solution architect, big data engineer and managing consultant at IBM Global Business Services, based out of New York City.
 
----
-
-### Category Name 1 
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+As a data scientist, I spend most of my time cleaning unstructured data and building predictive analytics models using Python or R, and leveraging my background in programming to build reproducible and scalable solutions that can be plugged in to automated end-to-end machine learning pipelines. 
